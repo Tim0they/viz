@@ -21,7 +21,7 @@ terrainFriction=1.0
 gravity=-9.81
 
 #Resources config file
-resourcesConfigFile=res.txt
+resourcesConfigFile=resourcesDifficultEnv.txt
 
 #starting positions and orientations defined
 startPositionConfigFile=startposconfig.txt
@@ -42,5 +42,5 @@ gatheringZonePosition=0,16,0
 
 #Gathering zone size.
 gatheringZoneSize=20,8,0.0005
-swarmSize=3
+swarmSize=4
 
